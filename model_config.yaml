@@ -1,0 +1,6 @@
+gemini:
+  model: "gemini-3-pro-preview"
+  temperature: 1.0
+  max_tokens: 1024
+  max_retries: 3
+  timeout: 30
